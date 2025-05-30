@@ -1,0 +1,24 @@
+##INDONESIA TRANSLATE
+Cara Penggunaan
+
+Encrypt file menggunakan pycompyle.pyc
+- ketik python2 -m pycompyle namafile.py
+- setelah itu ketik uncompyle6 namafile.pyc
+- terakhir ketik pycdc namafile.pyc
+
+Encrypt file menggunakan encrypt.py
+- ketik python2 encrypt.py namafile.py
+- setelah selesai lanjut ketik dpkg -i namafile.deb
+
+
+##ENGLISH TRANSLATE
+How to Use
+
+Encrypt file using pycompyle.pyc
+- type python2 -m pycompyle filename.py
+- then type uncompyle6 filename.pyc
+- finally type pycdc filename.pyc
+
+Encrypt file using encrypt.py
+- type python2 encrypt.py filename
+- after finished continue type dpkg -i filename.deb
